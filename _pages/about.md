@@ -1,23 +1,24 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+title: <strong>Yiyi</strong> Liao
+description: Postdoc in Autonomous Vision Group, MPI-IS Tuebingen
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.png
+#   address: >
+#     <p>Max-Planck-Ring 4</p>
+#     <p>72076 Tübingen, Germany</p>
 
-news: true
+news: false
 social: true
 ---
+I am a Postdoc in [Autonomous Vision Group](http://cvlibs.net/), a part of the MPI for Intelligent Systems and the University of Tübingen leading by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). I received my Ph.D. in Control Science and Engineering from [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University) in June 2018, where I worked with [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu). Before that, I received the B.S. degree from [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University) in Automation.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests include computer vision and deep learning, in especially their applications for semantic and geometric scene understanding in 3D. Currently, I am working on 3D reconstruction and simultaneously 2D and 3D scene understanding.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Contact: [yiyi [dot] liao [at] tue [dot] mpg [dot] de](mailto:yiyi.liao@tue.mpg.de)
+<br/>
+Address: Max-Planck-Ring 4, 72076 Tübingen, Germany
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+{% include projects.html %}
