@@ -13,7 +13,7 @@ profile:
 news:  true
 social: true
 ---
-I am a lecturer in the Department of Control Science and Engineering, Zhejiang University. I received my PhD from Department of Control Science and Engineering, Zhejiang University in 2016. As an exchange scholar, I visited University of Technology, Sydney and Stanford University from 2013 to 2015. 
+I am an Associate Professor in the Department of Control Science and Engineering, Zhejiang University. I received my PhD from Department of Control Science and Engineering, Zhejiang University in 2016. As an exchange scholar, I visited University of Technology, Sydney and Stanford University from 2013 to 2015. 
 
 My research interests include robot persistent autonomy, machine learning and computer vision. I developed several robot systems including laser guided vehicles, last-mile package delivery robot, and fast deployment of industrial robots, of which some systems have been applied in production. 
 
