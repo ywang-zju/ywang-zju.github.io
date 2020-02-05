@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Yiyi</strong> Liao
-description: Postdoc in Autonomous Vision Group, MPI-IS Tuebingen
+title: <strong>Yue</strong> Wang 
+description: Department of Control Science and Engineering, Zhejiang University, China
 profile:
   align: right
   image: prof_pic.png
@@ -10,15 +10,19 @@ profile:
 #     <p>Max-Planck-Ring 4</p>
 #     <p>72076 Tübingen, Germany</p>
 
-news: false
+news:  true
 social: true
 ---
-I am a Postdoc in [Autonomous Vision Group](http://cvlibs.net/), a part of the MPI for Intelligent Systems and the University of Tübingen leading by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). I received my Ph.D. in Control Science and Engineering from [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University) in June 2018, where I worked with [Prof. Yong Liu](https://person.zju.edu.cn/en/yongliu). Before that, I received the B.S. degree from [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University) in Automation.
+I am a lecturer in the Department of Control Science and Engineering, Zhejiang University. I received my PhD from Department of Control Science and Engineering, Zhejiang University in 2016. As an exchange scholar, I visited University of Technology, Sydney and Stanford University from 2013 to 2015. 
 
-My research interests include computer vision and deep learning, in especially their applications for semantic and geometric scene understanding in 3D. Currently, I am working on 3D reconstruction and simultaneously 2D and 3D scene understanding.
+My research interests include robot persistent autonomy, machine learning and computer vision. I developed several robot systems including laser guided vehicles, last-mile package delivery robot, and fast deployment of industrial robots, of which some systems have been applied in production. 
 
-Contact: [yiyi [dot] liao [at] tue [dot] mpg [dot] de](mailto:yiyi.liao@tue.mpg.de)
+Contact: [ywang24 [at] zju [dot] edu [dot] cn](mailto:ywang24@zju.edu.cn)
 <br/>
-Address: Max-Planck-Ring 4, 72076 Tübingen, Germany
+Address: Zheda Road 38, Xihu District, Hangzhou, China 
+
+{% if page.news %}
+   {% include news.html %}
+{% endif %}
 
 {% include projects.html %}

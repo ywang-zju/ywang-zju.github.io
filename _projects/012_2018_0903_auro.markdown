@@ -1,0 +1,10 @@
+---
+layout: page
+title: "Topological local-metric framework for mobile robots navigation: a long term perspective"
+img: /assets/img/tip2017.png
+---
+Li Tang, **Yue Wang**, Xiaqing Ding, Huan Yin, Rong Xiong, Shoudong Huang
+<br/>
+Autonomous Robots, 2018
+<br/>
+[[Paper](https://link.springer.com/article/10.1007/s10514-018-9724-7)]

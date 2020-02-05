@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Yiyi Liao
-email: yiyi.liao@tue.mpg.de
+name: Yue Wang
+email: ywang24@zju.edu.cn
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -16,10 +16,10 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: yiyiliao
+github_username:
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: lTBMax0AAAAJ
+scholar_userid: N543LSoAAAAJ
 orcid_id: # your ORCID ID
 #contact_note: >
 #  Drop me an email if you are interested.
@@ -87,7 +87,8 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Liao
+  last_name: Wang
+  first_name: Yue
 
   style: apa
   locale: en

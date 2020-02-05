@@ -1,0 +1,10 @@
+---
+layout: page
+title: "Stereo Visual-Inertial Odometry with Multiple Kalman Filters Ensemble"
+img: /assets/img/tip2017.png
+---
+Yong Liu, Rong Xiong, **Yue Wang**, Hong Huang, Xiaojia Xie, Xiaofeng Liu, Gaoming Zhang
+<br/>
+IEEE Transactions on Industrial Electronics, 2016
+<br/>
+[[Paper](https://ieeexplore.ieee.org/document/7480432)]

@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Persistent Stereo Visual Localization on Cross-Modal Invariant Map"
+img: /assets/img/tip2017.png
+---
+Xiaqing Ding, **Yue Wang**, Rong Xiong, Dongxuan Li, Li Tang, Huan Yin, Liang Zhao
+<br/>
+IEEE Transactions on Intelligent Transportation Systems, 2019
+<br/>

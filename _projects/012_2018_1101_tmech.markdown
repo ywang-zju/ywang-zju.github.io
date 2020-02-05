@@ -1,0 +1,10 @@
+---
+layout: page
+title: "Perception of demonstration for automatic programming of robotic assembly: framework, algorithm and validation"
+img: /assets/img/tip2017.png
+---
+**Yue Wang**, Xiong Rong, Hongsheng Yu, Jiafan Zhang, Yong Liu
+<br/>
+IEEE/ASME Transactions on Mechatronics, 2018
+<br/>
+[[Paper](https://ieeexplore.ieee.org/document/8274988)]
