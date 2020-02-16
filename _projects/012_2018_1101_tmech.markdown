@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Perception of demonstration for automatic programming of robotic assembly: framework, algorithm and validation"
-img: /assets/img/tip2017.png
+img: /assets/img/tmech2018.png
 ---
 **Yue Wang**, Xiong Rong, Hongsheng Yu, Jiafan Zhang, Yong Liu
 <br/>

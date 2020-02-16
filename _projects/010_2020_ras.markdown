@@ -1,0 +1,10 @@
+---
+layout: page
+title: "DeepGoal: Learning to Drive with driving intention from Human Control Demonstration"
+img: /assets/img/ras2020.png
+---
+Huifang Ma, **Yue Wang**, Rong Xiong, Sarath Kodagoda, Li Tang
+<br/>
+Robotics and Autonomous System, 2020
+<br/>
+<!--[[Paper](https://ieeexplore.ieee.org/document/8734150)]-->

@@ -1,25 +1,25 @@
 ---
 layout: about
 permalink: /
-title: <strong>Yue</strong> Wang 
+title: Yue <strong>Wang</strong> 
 description: Department of Control Science and Engineering, Zhejiang University, China
 profile:
   align: right
   image: prof_pic.png
-#   address: >
-#     <p>Max-Planck-Ring 4</p>
-#     <p>72076 Tübingen, Germany</p>
+#address: 
+#   Building 18, Yuquan Campus
+#   Zhejiang Univerity, China, 310027
 
 news:  true
 social: true
 ---
-I am an Associate Professor in the Department of Control Science and Engineering, Zhejiang University. I received my PhD from Department of Control Science and Engineering, Zhejiang University in 2016. As an exchange scholar, I visited University of Technology, Sydney and Stanford University from 2013 to 2015. 
+I am an Associate Professor in the Department of Control Science and Engineering, Zhejiang University. I received my PhD from Department of Control Science and Engineering, Zhejiang University in 2016, where I was advised by Prof. Rong Xiong. During my PhD, I was an exchange research student in University of Technology, Sydney and Stanford University from 2013 to 2015. 
 
-My research interests include robot persistent autonomy, machine learning and computer vision. I developed several robot systems including laser guided vehicles, last-mile package delivery robot, and fast deployment of industrial robots, of which some systems have been applied in production. 
+My research focus is to build persistent autonomy for robot using artificial intelligence, machine learning and computer vision. Our group developed many robot systems, such as off-the-road robot navigation system, last-mile package delivery robot, and vision based industrial robots controller, of which some systems have been applied in industry. 
 
 Contact: [ywang24 [at] zju [dot] edu [dot] cn](mailto:ywang24@zju.edu.cn)
 <br/>
-Address: Zheda Road 38, Xihu District, Hangzhou, China 
+Address: Building 18-210, Yuquan Campus, Zheda Road 38, Xihu District, Hangzhou, China 
 
 {% if page.news %}
    {% include news.html %}

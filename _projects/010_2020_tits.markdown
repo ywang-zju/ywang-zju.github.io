@@ -1,0 +1,10 @@
+---
+layout: page
+title: "3D LiDAR Map Compression for Efficient Localization on Resource Constrained Vehicles"
+img: /assets/img/tits2020.png
+---
+Huan Yin, **Yue Wang**, Li Tang, Xiaqing Ding, Shoudong Huang, Rong Xiong
+<br/>
+IEEE Transactions on Intelligent Transportation Systems, 2020
+<br/>
+<!--[Paper](https://ieeexplore.ieee.org/document/8734150)]-->

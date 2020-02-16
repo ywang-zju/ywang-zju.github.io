@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "LiDARb–Camera Calibration under Arbitrary Configurations: Observability and Methods"
-img: /assets/img/tip2017.png
+title: "LiDAR–Camera Calibration under Arbitrary Configurations: Observability and Methods"
+img: /assets/img/tim2019.png
 ---
 Bo Fu, **Yue Wang**, Xiaqing Ding, Yanmei Jiao, Li Tang, Rong Xiong
 <br/>

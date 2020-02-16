@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Scalable Learning Framework for Traversable Region Detection Fusing With Appearance and Geometrical Information"
-img: /assets/img/tip2017.png
+img: /assets/img/tits2017.png
 ---
 **Yue Wang**, Yong Liu, Yiyi Liao, Rong Xiong
 <br/>

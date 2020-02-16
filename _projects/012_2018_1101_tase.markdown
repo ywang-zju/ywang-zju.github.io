@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MASD: A Multimodal Assembly Skill Decoding System for Robot Programming by Demonstration"
-img: /assets/img/tip2017.png
+img: /assets/img/tase2018.png
 ---
 **Yue Wang**, Yanmei Jiao, Rong Xiong, Hongsheng Yu, Jiafan Zhang, Yong Liu
 <br/>

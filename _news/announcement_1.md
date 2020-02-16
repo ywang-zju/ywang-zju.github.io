@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-01-01 15:59:00-0400
+date: 2020-02-13
 inline: true
 ---
 
-A simple inline announcement.
+Our RAS paper accepted - Congratulations to Huifang.

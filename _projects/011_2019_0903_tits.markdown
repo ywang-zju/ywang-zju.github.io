@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "3D LiDAR-Based Global Localization Using Siamese Neural Network"
-img: /assets/img/tip2017.png
+img: /assets/img/tits2019.png
 ---
 Huan Yin, **Yue Wang**, Xiaqing Ding, Li Tang, Shoudong Huang, Rong Xiong
 <br/>
