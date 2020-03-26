@@ -8,3 +8,4 @@ Huifang Ma, **Yue Wang**, Rong Xiong, Sarath Kodagoda, Li Tang
 Robotics and Autonomous System, 2020
 <br/>
 <!--[[Paper](https://ieeexplore.ieee.org/document/8734150)]-->
+[[Video](https://www.youtube.com/watch?v=lwZCQM6RHtA)]

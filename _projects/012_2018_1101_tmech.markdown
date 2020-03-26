@@ -8,3 +8,4 @@ img: /assets/img/tmech2018.png
 IEEE/ASME Transactions on Mechatronics, 2018
 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/8274988)]
+[[Video](https://www.youtube.com/watch?v=5LBUU0KcY9U)]
