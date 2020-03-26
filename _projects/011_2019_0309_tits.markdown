@@ -7,3 +7,5 @@ Xiaqing Ding, **Yue Wang**, Rong Xiong, Dongxuan Li, Li Tang, Huan Yin, Liang Zh
 <br/>
 IEEE Transactions on Intelligent Transportation Systems, 2019
 <br/>
+[[Paper](https://ieeexplore.ieee.org/abstract/document/8853391/)]
+[[Video](https://www.youtube.com/watch?v=hTo9DD1xcs8&t=117s)]

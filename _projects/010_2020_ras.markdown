@@ -7,5 +7,6 @@ Huifang Ma, **Yue Wang**, Rong Xiong, Sarath Kodagoda, Li Tang
 <br/>
 Robotics and Autonomous System, 2020
 <br/>
-<!--[[Paper](https://ieeexplore.ieee.org/document/8734150)]-->
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308048)]
 [[Video](https://www.youtube.com/watch?v=lwZCQM6RHtA)]
+[[Code](https://github.com/HuifangZJU/visual-navigation)]

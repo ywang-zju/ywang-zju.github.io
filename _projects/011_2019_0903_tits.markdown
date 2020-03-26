@@ -8,3 +8,6 @@ Huan Yin, **Yue Wang**, Xiaqing Ding, Li Tang, Shoudong Huang, Rong Xiong
 IEEE Transactions on Intelligent Transportation Systems, 2019
 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/8734150)]
+[[Video](https://www.youtube.com/watch?v=GVbke-WH_f0)]
+[[Code](https://github.com/ZJUYH/LocNet_caffe)]
+
