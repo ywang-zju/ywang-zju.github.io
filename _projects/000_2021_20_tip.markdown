@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Learning Steering Kernels for Guided Depth Completion"
+img: /assets/img/tip2021.png
+---
+Lina Liu, Yiyi Liao, **Yue Wang**, Andreas Geiger, Yong Liu
+<br/>
+IEEE Transactions on Image Processing, 2021
+<br/>
+[[Paper](http://t.cvlibs.net/publications/Liu2021TIP.pdf)]
+<!--[[Video](https://www.youtube.com/watch?v=j9u2-fZCQC4)]-->
+<!--[[Code](https://github.com/slinkle/2-Entity-RANSAC)]-->

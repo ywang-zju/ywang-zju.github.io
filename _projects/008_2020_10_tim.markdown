@@ -1,0 +1,12 @@
+---
+layout: page
+title: "High-Precision Multicamera-Assisted Camera-IMU Calibration: Theory and Method"
+img: /assets/img/timfu2020.png
+---
+Bo Fu, Fuzhang Han, **Yue Wang**, Yanmei Jiao, Xiaqing Ding, Qimeng Tan, Lei Chen, Minhang Wang, Rong Xiong
+<br/>
+IEEE Transactions on Instrumentation and Measurement, 2020
+<br/>
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9324746/)]
+<!--[[Video](https://youtu.be/MufkLpkNhhY)]-->
+<!--[[Code](https://github.com/ZJU-Robotics-Lab/GEM)]-->

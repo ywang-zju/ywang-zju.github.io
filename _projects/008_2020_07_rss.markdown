@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Non-revisiting Coverage Task with Minimal Discontinuities for Non-redundant Manipulators"
+img: /assets/img/rss2020.png
+---
+Tong Yang, Jaime Valls Miro, **Yue Wang**, Rong Xiong
+<br/>
+Robotics: Science and Systems, 2020
+<br/>
+[[Paper](http://www.roboticsproceedings.org/rss16/p005.pdf)]
+[[Video](https://www.youtube.com/watch?v=j9u2-fZCQC4)]
+<!--[[Code](https://github.com/slinkle/2-Entity-RANSAC)]-->

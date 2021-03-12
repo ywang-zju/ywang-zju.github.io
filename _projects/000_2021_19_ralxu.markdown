@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Disco: Differentiable scan context with orientation"
+img: /assets/img/ralxu2021.png
+---
+Xuecheng Xu, Huan Yin, Zexi Chen, Yuehua Li, **Yue Wang**, Rong Xiong
+<br/>
+IEEE Robotics and Automation Letters, 2021
+<br/>
+[[Paper](https://arxiv.org/pdf/2010.10949.pdf)]
+[[Video](https://www.youtube.com/watch?v=SludumGuLYo)]
+[[Code](https://github.com/MaverickPeter/DiSCO-pytorch)]

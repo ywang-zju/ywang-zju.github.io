@@ -1,0 +1,13 @@
+---
+layout: page
+title: "RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measurement Model"
+img: /assets/img/titsyin2021.png
+---
+Huan Yin, **Yue Wang**, Runjian Chen, Rong Xiong
+<br/>
+IEEE Transactions on Intelligent Transportation Systems, 2021
+<br/>
+[[Paper](https://arxiv.org/pdf/2009.07061.pdf)]
+[[Video](https://www.youtube.com/watch?v=a3wEv-eVlcg)]
+[[Code](https://github.com/ZJUYH/RaLL)]
+
