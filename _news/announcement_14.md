@@ -4,4 +4,4 @@ date: 2021-02-28
 inline: true
 ---
 
-Four ICRA papers accepted - Congratulations to Yanmei, Tong, Yuwei and Yuxiang.
+Nine ICRA papers accepted - Congratulations to Xuecheng, Zexi, Weitong, Runjian, Yunkai, Yanmei, Tong, Yuwei and Yuxiang.
