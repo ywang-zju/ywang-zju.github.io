@@ -17,7 +17,7 @@ I am an Associate Professor in the Department of Control Science and Engineering
 
 My research focus is to build persistent autonomy for robot using artificial intelligence, machine learning and computer vision. Our group developed many robot systems, such as off-the-road robot navigation system, last-mile package delivery robot, and vision based industrial robots controller, of which some systems have been applied in industry. Please visit our <a href="https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ">YouTube Channel</a> and <a href="https://space.bilibili.com/544651460">Bibili Channel</a> for videos.
 
-For pespective students: If you are interested in working with us as a Master/PhD student or intership student, please feel free to contact me.
+For prospective students: If you are interested in working with us as a Master/PhD student or intership student, please feel free to contact me.
 
 Mail: [ywang24 [at] zju [dot] edu [dot] cn](mailto:ywang24@zju.edu.cn)
 <br/>
