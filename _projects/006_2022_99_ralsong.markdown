@@ -1,0 +1,11 @@
+---
+layout: page
+title: "A right invariant extended kalman filter for object based SLAM"
+img: /assets/img/ralsong2022.png
+---
+Yang Song, Zhuqing Zhang, Jun Wu, **Yue Wang**, Liang Zhao, Shoudong Huang
+<br/>
+IEEE Robotics and Automation Letters, 2022
+<br/>
+[[Paper](https://arxiv.org/pdf/2109.05297v1.pdf)]
+[[Code](https://github.com/YangSONG-SLAM/RIEKF_objectSLAM)]

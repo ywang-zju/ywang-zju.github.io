@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Kinematic motion retargeting via neural latent optimization for learning sign language"
+img: /assets/img/ralzhang2022.png
+---
+Haodong Zhang, Weijie Li, Jiangpin Liu, Zexi Chen, Yuxiang Cui, **Yue Wang**, Rong Xiong
+<br/>
+IEEE Robotics and Automation Letters, 2022
+<br/>
+[[Paper](https://arxiv.org/pdf/2103.08882.pdf)]
+[[Video](https://www.bilibili.com/video/BV1mh411Q7BR/)]
+[[Code](https://github.com/0aqz0/neural-retargeting)]

@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Leveraging Local Planar Motion Property for Robust Visual Matching and Localization"
+img: /assets/img/raljiao2022.png
+---
+Yanmei Jiao, Qunkang Zhang, Qunying Chen, Bo Fu, Fuzhang Han, **Yue Wang**, Rong Xiong
+<br/>
+IEEE Robotics and Automation Letters, 2022
+<br/>
+[[Paper](https://ieeexplore.ieee.org/document/9801615)]
+[[Code](https://github.com/slinkle/Divided-Openloris)]

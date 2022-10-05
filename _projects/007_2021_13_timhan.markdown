@@ -1,0 +1,10 @@
+---
+layout: page
+title: "Multiconstraint Spatial and Temporal Calibration of Rotating Line Structured Light Vision Sensor"
+img: /assets/img/timhan2021.png
+---
+Fuzhang Han, Qunkang Zhang, Bo Fu, Tong Yang, **Yue Wang**, Rong Xiong
+<br/>
+IEEE Transactions on Instrumentation and Measurement, 2021
+<br/>
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9525134/)]
