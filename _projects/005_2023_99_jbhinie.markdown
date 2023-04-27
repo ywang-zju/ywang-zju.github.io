@@ -1,0 +1,10 @@
+---
+layout: page
+title: "Weakly-Interactive-Mixed Learning: Less Labelling Cost for Better Medical Image Segmentation"
+img: /assets/img/jbhinie2023.png
+---
+Xiuping Nie, Lilu Liu, Lifeng He, Liang Zhao, Haojian Lu, Songmei Lou, Rong Xiong, **Yue Wang**
+<br/>
+IEEE Journal of Biomedical and Health Informatics, 2023
+<br/>
+[[Paper](https://ieeexplore.ieee.org/document/10104084/)]

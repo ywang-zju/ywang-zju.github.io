@@ -1,0 +1,10 @@
+---
+layout: page
+title: "An Efficient Multi-solution Solver for the Inverse Kinematics of 3-Section Constant-Curvature Robots"
+img: /assets/img/rssqiu2023.png
+---
+Ke Qiu, Jingyu Zhang, Danying Sun, Rong Xiong, Haojian Lu, **Yue Wang**
+<br/>
+Robotics: Science and Systems, 2023
+<br/>
+[[Page](https://sites.google.com/view/micsolver)]

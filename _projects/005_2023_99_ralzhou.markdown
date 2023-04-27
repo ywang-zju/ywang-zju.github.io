@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Open-Set Object Detection Using Classification-free Object Proposal and Instance-level Contrastive Learning"
+img: /assets/img/ralzhou2023.png
+---
+Zhongxiang Zhou, Yifei Yang, **Yue Wang**, Rong Xiong
+<br/>
+IEEE Robotics and Automation Letters, 2023
+<br/>
+[[Paper](https://arxiv.org/abs/2211.11530)]
+[[Page](https://sites.google.com/view/openset-rcnn)]
