@@ -1,0 +1,10 @@
+---
+layout: page
+title: "A Survey on Global LiDAR Localization: Challenges, Advances and Open Problems"
+img: /assets/img/ijcvyin2024.png
+---
+Huan Yin, Xuecheng Xu, Sha Lu, Xieyuanli Chen, Rong Xiong, Shaojie Shen, Cyrill Stachniss, **Yue Wang**
+<br/>
+International Journal of Computer Vision, 2024
+<br/>
+[[Paper](https://arxiv.org/abs/2302.07433)]

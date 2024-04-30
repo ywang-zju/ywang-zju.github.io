@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Ring++: Roto-translation-invariant gram for global localization on a sparse scan map"
+img: /assets/img/troxu2023.png
+---
+Xuecheng Xu, Sha Lu, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, **Yue Wang**
+<br/>
+IEEE Transactions on Robotics, 2023
+<br/>
+[[Paper](https://arxiv.org/abs/2210.05984)]
+[[Code](https://github.com/MaverickPeter/MR_SLAM)]

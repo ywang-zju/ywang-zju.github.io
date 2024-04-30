@@ -1,0 +1,10 @@
+---
+layout: page
+title: "AI co-pilot bronchoscope robot"
+img: /assets/img/nczhang2024.png
+---
+Jingyu Zhang, Lilu Liu, Pingyu Xiang, Qin Fang, Xiuping Nie, Honghai Ma, Jian Hu, Rong Xiong, **Yue Wang**, Haojian Lu
+<br/>
+Nature Communications, 2024
+<br/>
+[[Paper](https://www.nature.com/articles/s41467-023-44385-7)]
