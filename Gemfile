@@ -8,3 +8,11 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
 end
+
+# Ruby 3.4.0+ requires these gems explicitly (removed from standard library)
+gem 'csv'
+gem 'logger'
+gem 'base64'
+gem 'bigdecimal'
+gem 'observer'
+gem 'webrick'
