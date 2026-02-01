@@ -545,3 +545,144 @@ sup { position: relative; vertical-align: middle; top: -0.9ex; }
 h1, h2, h3, h4, h5, h6 { font-weight: 100; }
 
 div.equation { margin: 0.5rem 0; }
+
+/* Group page specific styles */
+.post-content h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.5rem;
+}
+
+.post-content h2:first-of-type {
+  margin-top: 0;
+}
+
+/* Postdocs grid layout */
+.postdocs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+.member-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.member-avatar {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 3px solid #eaecef;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.member-avatar:hover {
+  transform: scale(1.05);
+  border-color: #0366d6;
+}
+
+.member-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.member-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.member-name {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+  display: inline-block;
+}
+
+.member-name:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.group-member-list {
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+
+.group-member-list a {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.group-member-list a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.co-advised {
+  color: #586069;
+  font-size: 0.9em;
+  display: block;
+  margin-top: 0.3rem;
+}
+
+.co-advised a {
+  color: #586069;
+}
+
+.co-advised a:hover {
+  color: #0366d6;
+}
+
+/* Enhanced table styles for group page */
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.post-content table thead {
+  background-color: #f6f8fa;
+  border-bottom: 2px solid #eaecef;
+}
+
+.post-content table th {
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+  color: #24292e;
+}
+
+.post-content table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #eaecef;
+}
+
+.post-content table tbody tr:hover {
+  background-color: #f6f8fa;
+}
+
+.post-content table a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.post-content table a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
