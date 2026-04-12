@@ -604,7 +604,7 @@ div.equation { margin: 0.5rem 0; }
 }
 
 .member-name {
-  color: #0366d6;
+  color: #24292e;
   text-decoration: none;
   font-weight: 500;
   font-size: 1.1rem;
@@ -612,7 +612,11 @@ div.equation { margin: 0.5rem 0; }
   display: inline-block;
 }
 
-.member-name:hover {
+a.member-name {
+  color: #0366d6;
+}
+
+a.member-name:hover {
   color: #0056b3;
   text-decoration: underline;
 }
