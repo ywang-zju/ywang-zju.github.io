@@ -690,3 +690,34 @@ a.member-name:hover {
   color: #0056b3;
   text-decoration: underline;
 }
+
+/* Publications: allow text column to grow and vertically center */
+.projects .img_row {
+  display: flex;
+  align-items: center;
+  height: auto;
+  min-height: 200px;
+  overflow: visible;
+}
+
+.projects .img_row .col {
+  float: none;
+}
+
+.projects .img_row .col.one {
+  flex: 0 0 33.33%;
+  max-width: 33.33%;
+}
+
+.projects .img_row img.col {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: contain;
+}
+
+.projects .img_row .col.two {
+  flex: 1;
+  height: auto;
+}
